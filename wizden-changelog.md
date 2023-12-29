@@ -1,159 +1,139 @@
-- 🆑 **[UbaserB](https://github.com/UbaserB)**
-	- 🆕 Парадную форму HoS можно приобрести в типографии.- Новые спрайты для одежды ГСБ.
-- 🆑 **[Blackern5000](https://github.com/Blackern5000)**
-	- ⚒️ Стяжки СБ теперь миниатюрны, и их легче хранить.
-- 🆑 **[Aexxie](https://github.com/Aexxie)**
-	- 🆕 Добавлены РСУ во все инженерные шкафчики.
-- 🆑 **[UbaserB](https://github.com/UbaserB)**
-	- 🆕 Предатели и ядерные оперативники теперь могут приобрести набор для химического синтеза 4TC, содержащий Вестин.
-	- ⚒️ Ноктурин, Тазинид, Стимуляторы, Лексорин и Токсин немоты теперь создаются Вестином.
-	- ⚒️ Лексорин и токсин Хардбрейкер усилены, а Ликоксид ослаблен.
-	- ❌ Вы больше не можете купить Ноктурин в аплинке.
-  - [![image](https://github.com/MetalSage/stories-changelog/assets/74924875/1ae366e7-9730-45c2-a114-8912c90d86d5)](https://private-user-images.githubusercontent.com/134914314/291134096-1f169cc8-0044-4071-8019-07be4b3ed0c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzk2MTksIm5iZiI6MTcwMzMzOTMxOSwicGF0aCI6Ii8xMzQ5MTQzMTQvMjkxMTM0MDk2LTFmMTY5Y2M4LTAwNDQtNDA3MS04MDE5LTA3YmU0YjNlZDBjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyM1QxMzQ4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjMxZmJlOTY1NDFkYzAyYWExN2Y1MjViNDI1NDhhM2I2ZGQ2OTNiNGUyNjU3MjM5ZTg2ZTBhNTIzNzI3NWVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AvJR6hr6KgKixys_mE8BjBm8bpk15SHmw4f0gpfUlBE)
-- 🆑 **[UbaserB](https://github.com/UbaserB)**
-	-  🆕 Уборщикам теперь выдают резиновые перчатки для уборки.
-  - [![image](https://github.com/MetalSage/stories-changelog/assets/74924875/2600e4cb-9021-486f-b402-f363215d98a6)
-](https://private-user-images.githubusercontent.com/134914314/291061729-199c116e-7bb9-4eac-b387-a828b0a51e20.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzk2NjgsIm5iZiI6MTcwMzMzOTM2OCwicGF0aCI6Ii8xMzQ5MTQzMTQvMjkxMDYxNzI5LTE5OWMxMTZlLTdiYjktNGVhYy1iMzg3LWE4MjhiMGE1MWUyMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyM1QxMzQ5MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjI1OGZlYzVkNzYwYjlkNTZmMTUyN2RmNzExNzFjNzZjOWZiNGVkMDRkYzU2NWJkNjY4YTgyNGFhOTZmZGZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Wcdfcb5o3utT5okyyM3_a9sW-6CFOgnSM2ZmBmSz3Uk)
-- 🆑 **[IamVelcroboy](https://github.com/IamVelcroboy)**
-	- 🆕 Добавлен уголь. Уголь был добавлен в рецепт стали в рудопереработчике. Уголь можно измельчить, чтобы получить углерод и другие элементы. Уголь можно добыть или получить в подарок, если вы были непослушны.
-- 🆑 **[IProduceWidgets](https://github.com/IProduceWidgets)**
-	- 🆕 Сапоги на высоком каблуке! Поймайте надзирателя за новыми сапогами!
-- 🆑 **[Flareguy](https://github.com/Flareguy)**
-	-  ⚒️ Теперь вы можете заходить во внешние шлюзы и шлюзы шаттлов, чтобы открыть их, как и все остальные шлюзы.
-- 🆑 **[iacore](https://github.com/iacore)**
-	- 🆕 Обычные шкафы теперь можно конструировать и деконструировать
-- 🆑 **[Emisse](https://github.com/Emisse)**
-	- ⚒️ Стальные стены стали крепче, а окна - слабее.
-	- ⚒️ Защищенные ящики и шкафчики стали намного прочнее.
-	- ⚒️ Оружие ближнего боя теперь более сбалансировано в пределах более близкого диапазона урона.
-	- ⚒️ Двойной энергетический меч и огненный топор теперь недоступны в аплинке
+- 🆑 **[StanTheCarpenter](https://github.com/StanTheCarpenter)**
+	- 🆕 Для безопасной доставки подарков в открытом космосе добавлен cкафандр Санты.
+- 🆑 **[chromiumboy](https://github.com/chromiumboy)**
+	- ⚒️ Компания НаноТразен обновила консоли контроля питания своих станций.
+- 🆑 **[Darkenson](https://github.com/Darkenson)**
+	- 🆕 Добавлены звуки гудения и раскачивания электронного меча. Гул также добавлен в энергетический щит.
+	- 🐛 Изменен звук удара электронного меча и его воздействие на строения при активации. Если он не наносит урона, звук остается прежним, но становится намного тише (вместо звука тапа). Также исправлен звук удара электронного меча при деактивации.
+	- 🐛 Отражающий щит теперь может отражать 95% энергетических выстрелов, как и было задумано.
+	- 🐛 В активном состоянии зажигалки горячие.
+	- ⚒️ Изменили двойной электронный меч, сделав его немного громче.
+	- ⚒️ Сварка теперь издает энергетический звук (вместо "бонк") при ударе по предметам с его активацией.
 - 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
-	- 🆕 В груз добавлены ящики с РСУ и патронами РСУ.
-- 🆑 **[ElectroJr](https://github.com/ElectroJr)**
-	- ⚒️ Огненный топор теперь может бороться с огнем (удары в ближнем бою уменьшают стаки огня).
-- 🆑 **[SapphicOverload](https://github.com/SapphicOverload)**
-	- ⚒️ Шлемы EVA и защитные костюмы теперь позволяют дышать из газовых баллонов без маски.
-- 🆑 **[RiceMar1244](https://github.com/RiceMar1244)**
-	- 🆕 В экстерьере отделений теперь установлены фонари для уборщиков, направляющие их к тем местам, которые они не видят!
-- 🆑 **[SlamBamActionman](https://github.com/SlamBamActionman)**
-	- 🐛 Исправлена совместимость со старым форматом журнала изменений.
-- 🆑 **[Partmedia](https://github.com/Partmedia)**
-	- ⚒️ Солнцезащитные очки, исследуемые из арсенала технологий, теперь отображают визор службы безопасности.
-- 🆑 **[Stanislav4ix](https://github.com/Stanislav4ix)**
-	- 🆕 Добавлен блюспейс мешок с рудой!
-- 🆑 **[graevy](https://github.com/graevy)**
-	- 🆕 Добавлены таймеры шаттлов и связанная с ними логика.
-- 🆑  **[TGODiamond](https://github.com/TGODiamond)**
-	- 🐛 Теперь размер изделия не может быть истолкован неправильно.
-- 🆑 **[Veritius](https://github.com/Veritius)**
-	- ⚒️ Этилредоксразин более эффективен при лечении пьянства
-- 🆑 **[Errant-4](https://github.com/Errant-4)**
-	- 🐛 Элементы HUD больше не нарушают Женевские конвенции.
-- 🆑 **[ERORR404V1](https://github.com/ERORR404V1)**
-	- 🆕 Ботаники из NanoTrasen вывели новое мигающее растение
-- 🆑 **[qwerltaz](https://github.com/qwerltaz)**
-	- ⚒️ Улучшение интерфейса газоанализатора.
-- 🆑 **[Partmedia](https://github.com/Partmedia)**
-	- ⚒️ Теперь один моль фрезона стоит 0.3 кредита.
-- 🆑 **[JoeHammad1844](https://github.com/JoeHammad1844)**
-	- 🆕 У карты Fland теперь есть собственный эвакуационный шаттл, перенесенный из ss13.
-- 🆑 **[joshepvodka](https://github.com/joshepvodka)**
-	- 🆕 Новый комбинезон для юридической команды ЦентКома. Также для команды обезьян-юристов ЦентКома.
-- 🆑 **[joshepvodka](https://github.com/joshepvodka)**
-	- 🆕 Теперь бюрократы ЦентКома стали вдвое влиятельнее благодаря своим новым, сделанным на заказ клипбордам и папкам.
-- 🆑 **[PJB3005](https://github.com/PJB3005)**
-	- 🐛 Исправление того, что если вы начинаете следовать за движущимся игроком как призрак, то ваша камера больше не прыгает.
-- 🆑 **[whateverusername0](https://github.com/whateverusername0)**
-	- 🆕 Теперь миазмы реагируют с кислородом при 50°C, образуя оксид азота и водяной пар.
-- 🆑 **[whateverusername0](https://github.com/whateverusername0)**
-	- 🆕 Оксид азота теперь разлагается при высоких температурах.
-- 🆑 **[Emisse](https://github.com/Emisse)**
-	- ⚒️ Ящики и шкафчики вскрывать немного легче, но все равно сложнее, чем раньше.
-	- ⚒️ Стальные стены легче сломать, армированные остались не тронутые.
-- 🆑 **[mirrorcult](https://github.com/mirrorcult)**
-	- 🐛 Миазмы были переименованы в аммиак.
-	- ❌ Реакция размножения миазмы с фрезоном была удалена.
-- 🆑 **[joshepvodka](https://github.com/joshepvodka)**
-	- ⚒️ Компания НаноТрезен обновила дизайн своих медипенов для экстренной помощи. Космические медипены теперь пурпурного цвета, а эпинефрин - с зеленой полосой.
-  - ![image](https://private-user-images.githubusercontent.com/86210200/292072072-11f3f7a1-924c-4dce-b623-652eae00fab7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDAwMzMsIm5iZiI6MTcwMzMzOTczMywicGF0aCI6Ii84NjIxMDIwMC8yOTIwNzIwNzItMTFmM2Y3YTEtOTI0Yy00ZGNlLWI2MjMtNjUyZWFlMDBmYWI3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDEzNTUzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViYjI3NzEyNDE0NzhjMjJhOGE5ZWY3MWFkZjM4NDBkY2RhNGNmMmZmODZlODcxYzUwNDBiMjUzZjUyNzlmN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._BVknnVCc9iNQt3diG753itkTVS6wri9U1QVp9vcQWM)
-- 🆑 **[Tunguso4ka](https://github.com/Tunguso4ka)**
-	- ⚒️ Перерисовка спрайтов ковров.
-  - ![image](https://private-user-images.githubusercontent.com/71643624/291071122-64a46405-8d45-4408-b1e5-13e2b68c7aa8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDAzMTQsIm5iZiI6MTcwMzM0MDAxNCwicGF0aCI6Ii83MTY0MzYyNC8yOTEwNzExMjItNjRhNDY0MDUtOGQ0NS00NDA4LWIxZTUtMTNlMmI2OGM3YWE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDE0MDAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyZDkzY2VkNGQ5NzZlNzU4ZjU5Yzk3MDk4MjQ0MTJiOTlmYzhlZjZlMGUyMjI1ZmRkYzliNjJhNTU3YThkNDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RZLlkN1LZ_njSNHEw16os-YiklXqJRO8kXraU5ADc0Q)
-- 🆑 **[CrigCrag](https://github.com/CrigCrag)**
-	- 🆕 Добавлен Фреизиум, охлаждающая жидкость военного класса, которую НЕ РЕКОМЕНДУЕТСЯ ПИТЬ И ВЫЛИВАТЬ НА ДРУЗЕЙ!
-- 🆑 **[RiceMar1244](https://github.com/RiceMar1244)**
-	- ⚒️ Энергетические мечи и двойные энергетические мечи теперь выглядят так, как будто они находятся в руке.
-  - ![sword](https://private-user-images.githubusercontent.com/138547931/292108768-9491842e-b920-4a3c-a816-24419518d304.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDAzNzksIm5iZiI6MTcwMzM0MDA3OSwicGF0aCI6Ii8xMzg1NDc5MzEvMjkyMTA4NzY4LTk0OTE4NDJlLWI5MjAtNGEzYy1hODE2LTI0NDE5NTE4ZDMwNC5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyM1QxNDAxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZGM0ZjM0ZDBlYWU0Y2IwYjU5NjNiZmNlZTM5MGE4MmU0YTVhZDBmMjY2YTA4NzYwN2UwNWNkN2JhMzQzODdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jKeL68Mw4Asm2Z28b-24rInJt-yGvWJfh0NCwhTiQ2Q)
-  - ![double](https://private-user-images.githubusercontent.com/138547931/292108765-f277951a-babc-4536-9059-93528675fd41.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzNDAzNzksIm5iZiI6MTcwMzM0MDA3OSwicGF0aCI6Ii8xMzg1NDc5MzEvMjkyMTA4NzY1LWYyNzc5NTFhLWJhYmMtNDUzNi05MDU5LTkzNTI4Njc1ZmQ0MS5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyM1QxNDAxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yY2Q5ZGE2M2NkMDU2YjIwYjA5MjcyYTQ0MjQ2OThkMTdjZGI4YjIwNDUwNTExNGNhMTBlMjUyZmQ2OTQ1OTMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qVgdI4BZy-k6BKJEDo64zOb4jALI9D8AvPx5hpz7P4w)
-- 🆑 **[Emisse](https://github.com/Emisse)**
-	- ⚒️ Борги теперь видят, кто является экипажом.
-- 🆑 **[KittenColony](https://github.com/KittenColony)**
-	- ❌ Удалены метки марли у слаймолюдов.
-	- 🆕 Добавлено пять новых меток для унатхов, чтобы учесть различия в спрайтах.
-	- 🆕 Добавлены две новые метки, закрывающие костяшки пальцев, для всех, кроме слаймолюдов и дион.
-	- 🆕 Новая повязка на глаза, вариант для унтахов включен.
-- 🆑 **[themias](https://github.com/themias)**
-	- 🐛 Влажными тряпками можно снова вытирать лужи.
-	- ⚒️ Синди мыло очищает улики немного быстрее, чем другие виды мыла.
-- 🆑 **[Emisse](https://github.com/Emisse)**
-	- ⚒️ Ядерные оперативники больше не начинают с ID агента
-- 🆑 **[Titian3](https://github.com/Titian3)**
-	- 🐛 Мыши больше не могут разливать содержимое контейнеров.
-- 🆑 **[Lukasz825700516](https://github.com/Lukasz825700516)**
-	- 🐛 Канистры больше не предсказывают вставку случайных предметов.
-- 🆑 **[mirrorcult](https://github.com/mirrorcult)**
-	- 🆕 Умное снаряжение теперь работает со слотами предметов.
-	- ⚒️ Умное снаряжение теперь предсказывается.
-- 🆑 **[Boaz1111](https://github.com/Boaz1111)**
-	- 🆕 Добавлены урановые боеприпасы, новое исследование арсенала Т1.
-	- ⚒️ Сделан раундстарт тренировочных боеприпасов и оружия.
-- 🆑 **[DrMelon](https://github.com/DrMelon)**
-	- 🐛 Мыши и другие мелкие существа больше не могут навредить Пун-Пуну или Клоуну, разбивая их о столы.
-- 🆑 **[joshepvodka](https://github.com/joshepvodka)**
-	- ⚒️ Ножны капитанской сабли теперь используют слот вместо контейнера UI.
-- 🆑 **[mirrorcult](https://github.com/mirrorcult)**
-	- 🐛 Люди теперь кричат от боли.
-- 🆑 **[JoeHammad1844](https://github.com/JoeHammad1844)**
-	- ⚒️ Планета ядерных оперативников была немного обновлена
-- 🆑 **[Ilya246](https://github.com/Ilya246)**
-	- 🐛 Ручка киберсана теперь правильно наносит урон от броска.
-- 🆑 **[joshepvodka](https://github.com/joshepvodka)**
-	- 🆕 НаноТразен только что изобрел пепельницу. Пойди покури.
-- 🆑 **[Emisse](https://github.com/Emisse)**
-	- 🆕 Большую лотерею теперь можно купить с помощью груза.
+	- ⚒️ Ионные законы теперь имеют уникальные хаотичные визуальные эффекты в меню законов.
 - 🆑 **[LordCarve](https://github.com/LordCarve)**
-	- 🐛 Исправлена проблема, из-за которой некоторые контейнеры не могли быть помещены в блок утилизации через базовое взаимодействие.
+	- 🐛 Исправлено перезаписывание очень длинных текстов на бумаге или в книге.
+- 🆑 **[TheShuEd](https://github.com/TheShuEd)**
+	- 🆕 В игру добавлен новый антагонист! Вор! Особенность этого антагониста в том, что он является дополнением к некоторым другим режимам. До 3 воров могут появиться в начале матча среди игроков в режимах "Предатель" и "Революция".
+- 🆑 **[Flareguy](https://github.com/Flareguy)**
+	- ⚒️ Box получил новый шаттл.
+- 🆑 **[Hmeister-fake](https://github.com/Hmeister-fake)**
+	- ⚒️ У дымовых гранат теперь есть звук.
+- 🆑 **[Boaz1111](https://github.com/Boaz1111)**
+	- 🆕 Добавлено 4 промежуточных промышленных химикатов, которые в будущем будут использоваться в рецептах.
+	- ⚒️ Измените рецепты норадреналиновой кислоты, эпинефрина, окулина и фенола, чтобы использовать эти новые химические вещества.
+- 🆑 **[UbaserB](https://github.com/UbaserB)**
+	- ⚒️ В пачках сигарет теперь содержится в два раза больше сигарет.
+- 🆑 **[Nairodian](https://github.com/Nairodian)**
+	- 🆕 Добавлен соответствующий уровень доступа Центрального командования и шлюзы.
+- 🆑 **[Emisse](https://github.com/Emisse)**
+	- ⚒️ Имплантат хранилища больше не имеет ограничений по размеру.
+- 🆑 **[Sirionaut](https://github.com/Sirionaut)**
+	- ⚒️ Ключи от уборочной машины, заменитель и вантуз теперь помещаются в пояс уборщика.
+- 🆑 **[arimah](https://github.com/arimah)**
+	- 🆕 В факсах теперь есть кнопка "Копировать" для копирования вставленной бумаги.
+- 🆑 **[deltanedas](https://github.com/deltanedas)**
+	- ⚒️ Цели кражи предателей ограничены 1 игроком на каждый доступный предмет. У мяса корги 2 кусочка, так что максимум 2 игрока.
+- 🆑 **[deltanedas](https://github.com/deltanedas)**
+	- 🆕 Киберсан в будущем отправляет лазутчиков NT-800 в ваше время, чтобы уничтожить людей на станции, которые, по ее мнению, важны для будущего.
+- 🆑 **[TheShuEd](https://github.com/TheShuEd)**
+	- ⚒️ Воры теперь пацифисты.
+- 🆑 **[ElectroJr](https://github.com/ElectroJr)**
+	- 🐛 Исправлено, что роль призрака-скелета в шкафу иногда не появлялась должным образом.
+- 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
+	- 🆕 Некоторые объекты на станции будут выглядеть по-другому во время праздничного сезона.
+
+- 🆑 **[ElectroJr](https://github.com/ElectroJr)**
+	- ⚒️ Исправлена небольшая заминка/прерывистость при таскании или отпускании.
+- 🆑 **[metalgearsloth](https://github.com/metalgearsloth)**
+	- 🆕 Добавлены состояния движения спрайтов для некоторых типов боргов, чтобы они анимировались при движении.
+- 🆑 **[revsys413](https://github.com/revsys413)**
+	- 🆕 Добавлен новый питомец в виде краба Тропико, верного спутника Атмосии! Вива!
+- 🆑 **[Flareguy](https://github.com/Flareguy)**
+	- 🆕 Добавлены пряничные человечки. Вы можете увидеть их, если админы чувствуют себя особенно веселыми.
+- 🆑 **[mirrorcult](https://github.com/mirrorcult)**
+	- ⚒️ Описание вора было отредактировано, чтобы уточнить, что убийство разрешено.
+- 🆑 **[metalgearsloth](https://github.com/metalgearsloth)**
+	- 🆕 Исправьте сохранение призраков.
+- 🆑 **[Boaz1111](https://github.com/Boaz1111)**
+	- 🐛 Исправлен рецепт серной кислоты.
+	- ⚒️ Измените некоторые химические рецепты, чтобы использовать промышленные химикаты
+- 🆑 **[UbaserB](https://github.com/UbaserB)**
+	- 🆕 Палантины теперь можно приобрести в магазине священника.
+- 🆑 **[BYONDFuckery](https://github.com/BYONDFuckery)**
+	- 🐛 Исправлено описание ящиков с мотыльками, которые врали о своем содержимом.
 - 🆑 **[lzk228](https://github.com/lzk228)**
-	- 🆕 Шляпы для вечеринок добавлены в ящик для вечеринок в карго! Ура!
-- 🆑 **[2013HORSEMEATSCANDAL](https://github.com/2013HORSEMEATSCANDAL)**
-	- 🆕 Что такое грейтайд? Путеводитель для сотрудников был обновлен и включает в себя глоссарий.
-- 🆑 **[MACMAN2003](https://github.com/MACMAN2003)**
-	- 🆕 В принтере униформы теперь есть еще несколько предметов одежды и уязвимость к емагу.
-  - ![image](https://private-user-images.githubusercontent.com/20659419/292307850-e7394fcc-eb5d-4ca1-93e9-a81499cf11dc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzY2MjAsIm5iZiI6MTcwMzMzNjMyMCwicGF0aCI6Ii8yMDY1OTQxOS8yOTIzMDc4NTAtZTczOTRmY2MtZWI1ZC00Y2ExLTkzZTktYTgxNDk5Y2YxMWRjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDEyNTg0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3MjdmZGUxNzQ0NjNlOWVkMGY4MjA2OTM3NmEwNDEyODJiNGNlYjM0Nzc0ODlhNWQzOGFlYmNhMjcwYTZiMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5NJ7IUDT0y66qDu5tZFqqW8eQmsYODEouo1LMGRYSlY)
-  - ![image](https://private-user-images.githubusercontent.com/20659419/292307882-25efbdbf-5831-4d75-8561-44bd49298ce3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzY2MjAsIm5iZiI6MTcwMzMzNjMyMCwicGF0aCI6Ii8yMDY1OTQxOS8yOTIzMDc4ODItMjVlZmJkYmYtNTgzMS00ZDc1LTg1NjEtNDRiZDQ5Mjk4Y2UzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDEyNTg0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyZmJiZGRkN2ZiZDJiMjc5YWNkZTZkNTE5ZmM2ODI4NzA4NzMyMDU0ZjBlZTJiMGVhMmVkMGU4ZGM0NDdhZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BqfYBwLdNL6hstSB44Kwp8dxin5zBmx2VkwZKpbj0qo)
+	- 🐛 Растения в горшках больше не могут выходить за двери.
+- 🆑 **[Chief-Engineer](https://github.com/Chief-Engineer)**
+	- 🆕 Добавлена программа LogProbe для проверки журналов доступа к устройствам. Можно найти в шкафчике детектива.
+- 🆑 **[ElectroJr](https://github.com/ElectroJr)**
+	- 🐛 Исправлены некоторые десинхронизации визуального отображения вращения, в результате которых игроки застревали в "горизонтальном" состоянии.
+- 🆑 **[Admiral-Obvious-001](https://github.com/Admiral-Obvious-001)**
+	- ⚒️ Немного уменьшен урон дробовика за пулю.
+- 🆑 **[mirrorcult](https://github.com/mirrorcult)**
+	- ⚒️ Пацифисты теперь могут атаковать в целом, но им по-прежнему запрещено причинять вред живым существам или опасным предметам.
+	- ⚒️ Пацифисты теперь могут разоружать людей. В конце концов, они же пацифисты.
+	- ⚒️ Пацифисты теперь могут использовать вспышки (и вообще оружие ближнего боя с нулевым уроном)
+- 🆑 **[snebl](https://github.com/snebl)**
+	- 🐛 Стационарные аварийные и расширенные азотные баллоны одинакового объема.
+- 🆑 **[Blazeror](https://github.com/Blazeror)**
+	- 🐛 Теперь вы можете открывать ветровые двери вручную, когда они не работают.
+- 🆑 **[Emisse](https://github.com/Emisse)**
+	- ⚒️ В Большой лотерее теперь гораздо больше призов!
 - 🆑 **[TheShuEd](https://github.com/TheShuEd)**
-	- 🆕 Добавлены парикмахерские ножницы в театральный ящик! Теперь вы можете менять прически других игроков!
-- 🆑 **[magmodius](https://github.com/magmodius)**
-	- ⚒️ Боксерам Синдиката теперь легче приобрести боксерские перчатки, чем пассажирам. 5 TC для боксеров, 8 TC для пассажиров.
-- 🆑 **[TheShuEd](https://github.com/TheShuEd)**
-	- 🆕 Собачьи ушки редко появляются на обломках, как альтернатива кошачьим ушкам.
-- 🆑 **[TheShuEd](https://github.com/TheShuEd)**
-	- ⚒️ Ресурсные затраты на производство синхронизатора аномалий значительно сократились.
-- 🆑 **[Moomoobeef](https://github.com/Moomoobeef)**
-	- ⚒️ Изменены спрайты книг на книжных полках для более случайного распределения.
-- 🆑 **[deathride58](https://github.com/deathride58)**
-	- ⚒️ Наркотический эффект был переработан. Теперь он, надеюсь, будет вызывать меньше укачиваний, а также выглядеть немного приятнее в целом.
-- 🆑 **[liltenhead](https://github.com/liltenhead)**
-	- ⚒️ Теперь из флаконов можно пить и указывать точные единицы измерения.
-- 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
-	- ⚒️ Теперь ваша одежда отображается в углу, а не над горячей панелью.
-  - ![image](https://private-user-images.githubusercontent.com/98561806/292608506-e23d5fd8-6284-42e1-b564-de57fe3dcf68.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzcyMjAsIm5iZiI6MTcwMzMzNjkyMCwicGF0aCI6Ii85ODU2MTgwNi8yOTI2MDg1MDYtZTIzZDVmZDgtNjI4NC00MmUxLWI1NjQtZGU1N2ZlM2RjZjY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDEzMDg0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3YjY5ZjczZDNiZGM2NjNiZjc5MTQ1YjNhMzk0YmU2NGJmZTc3YTliYjc2ZThiYTJjNTUxOTA0NDBiMjVhYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jh6ChwTNRYOqGpjJuwwpsLiJ8OcWNV_rSVAx8NPfRhM)
-- 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
-	- ⚒️ Оформление и тема HUD были перенесены из раздела графики в общий раздел меню опций.
-- 🆑 **[Blackern5000](https://github.com/Blackern5000)**
-	- 🆕 Авариные наборы NT теперь содержат бутылки с чистой водой неизвестного происхождения.
-	- ⚒️ Дыхательные маски теперь меньше противогазов
-  - ![image](https://private-user-images.githubusercontent.com/140123969/292605412-fcadeb58-03d4-47ce-b28d-4927abad63e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzc4ODQsIm5iZiI6MTcwMzMzNzU4NCwicGF0aCI6Ii8xNDAxMjM5NjkvMjkyNjA1NDEyLWZjYWRlYjU4LTAzZDQtNDdjZS1iMjhkLTQ5MjdhYmFkNjNlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyM1QxMzE5NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZTc4MzJjY2VlZTJkODVhNTUyOTYxZTYyMTcwNmIxZThjM2JmMzMxMzM0ZjcxYzc4ZTYwODY1NjU0NGViZDRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Z1goXvX6bo5FompDcJ42fdJvA6tjkv8iRO0a3V1HMkE)
+	- ⚒️ Вор временно не будет воровать постройки, так как эта задача кажется ему слишком сложной.
+	- 🆕 Добавлен Емаг в набор синди вора.
+	- 🆕 Добавлены 3 дымовые гранаты в набор контрабандиста вора.
+	- ⚒️ Замените радиопомеху на кибер-ручку в коммуникаторе вора.
+	- ⚒️ Заменил бутылку с омнизином на омега-мыло в химическом наборе вора.
+- 🆑 **[Darkenson](https://github.com/Darkenson)**
+	- 🆕 Добавлена гравированная зажигалка "Флиппо", найденная в пальто детектива.
+	- 🆕 Зажигалка "Флиппо" с гравировкой может стать целью вора.
+	- 🆕 Добавлена обычная зажигалка "Флиппо".
+- 🆑 **[Alekshhh](https://github.com/Alekshhh)**
+	- ⚒️ Изменена палитра коричневой фетровой шляпы и плаща инспектора, а также внесены незначительные коррективы.
+- 🆑 **[ElectroJr](https://github.com/ElectroJr)**
+	- 🐛 Исправление неуязвимости брошенных предметов к урону от столкновений в первые две секунды после начала игры.
+	-  🆕 Добавляет несколько тестов, которые позволили бы выявить ошибки, исправленные в PR движка.
+	-  🐛 Исправлена ошибка выхода индекса ui действий за пределы диапазона.
+	-  ⚒️ Пресекает попытки компонента распределителя добавить компоненты к завершающим сущностям.
+	-  🐛 Исправление того, что предметы с нулевым "LandTime" не сразу приземляются.
 - 🆑 **[IamVelcroboy](https://github.com/IamVelcroboy)**
-	- 🆕 Добавлен поварской пояс!
-  - ![image](https://private-user-images.githubusercontent.com/107660393/292597623-4dbd44b1-6228-4bb3-912f-7ee8d6e72717.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMzMzgwODAsIm5iZiI6MTcwMzMzNzc4MCwicGF0aCI6Ii8xMDc2NjAzOTMvMjkyNTk3NjIzLTRkYmQ0NGIxLTYyMjgtNGJiMy05MTJmLTdlZThkNmU3MjcxNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIyM1QxMzIzMDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYzhhNTg3Y2Y5YWU0NTkyOTJiMWY3MzI3MmI1OTA2Yjc1MDBkZTE2N2ExMmFlN2I2MTgxMzI5YTRlYTVkZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.2QLRobXvYWedCbn4GpCmIvS2u3PCd2_NmAjfNkLZ0sg)
+	- 🆕 Добавлена сила удара в ближнем бою для полена салями!
+- 🆑 **[Emisse](https://github.com/Emisse)**
+	- ⚒️ Ионный шторм замолчал.
+- 🆑 **[Alekshhh](https://github.com/Alekshhh)**
+	- ⚒️ Визуально изменили настенные шкафчики, чтобы они соответствовали обычным шкафчикам и лучше сидели на стенах.
+- 🆑 **[Stanislav4ix](https://github.com/Stanislav4ix)**
+	- 🆕 Добавлен энергетический пистолет пулемёт! Вы должны исследовать продвинутый контроль беспорядков, и тогда вы сможете напечатать его на тех фабе безопасности.
+- 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
+	- 🆕 Добавлено событие "Канцелярская ошибка станции", которое приводит к уничтожению небольшого количества записей станции.
+- 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
+	- 🆕 Добавлена перчатка GORILLA. При использовании ядра аномалии один удар этой перчатки способен отправить аномалии в полет. Только постарайтесь не выпустить их на клоуна.
+	- 🆕 В дисциплину "Эксперименты" добавлена технология Anomaly Core Harnessing, содержащая перчатку GORILLA.
+- 🆑 **[dakamakat](https://github.com/dakamakat)**
+	- ⚒️ Добавлен новый звук вставки идентификатора.
+- 🆑 **[UbaserB](https://github.com/UbaserB)**
+	- 🆕 Теперь вы можете купить кобольдов в грузовом отсеке в качестве альтернативы обезьянам!
+- 🆑 **[TheShuEd](https://github.com/TheShuEd)**
+	- 🆕 В игру добавлена Тесла! Инженеры могут построить генератор энергии Тесла, используя генератор теслы, катушки Тесла и палочки заземления, которые можно приобрести в грузовом отделе.
+- 🆑 **[Flareguy](https://github.com/Flareguy)**
+	- 🆕 Исправлено крайне неточное наложение повреждений на окно.
+- 🆑 **[TheShuEd](https://github.com/TheShuEd)**
+	- 🆕 Воры теперь могут появляться в раундах с ядерными оперативниками
+- 🆑 **[EmoGarbage404](https://github.com/EmoGarbage404)**
+	- 🆕 Добавлены станционные маяки. Эти устройства создают пользовательские метки на карте станций. Закажите их в грузовом отделе уже сегодня.
+- 🆑 **[AJCM-git](https://github.com/AJCM-git)**
+	- 🐛 AccessRecord неправильно сериализуется при сохранении карты.
+	- 🆕 Приостановлена проверка условия в методе LogAccess(), чтобы картографы не регистрировали доступ.
+	- 🆕 Команда Addaccesslog, чтобы картографы и администраторы, которые хотят добавить доступ в приостановленные карты или в любой другой ситуации, могли это сделать.
+- 🆑 **[lzk228](https://github.com/lzk228)**
+	- ⚒️ Направленное заграждение можно построить прямо сейчас!
+- 🆑 **[themias](https://github.com/themias)**
+	- 🆕 Игрушечные мечи можно включать.
+- 🆑 **[tomasalves8](https://github.com/tomasalves8)**
+	- 🆕 Радиус ослепления при масштабировании.
+- 🆑 **[UbaserB](https://github.com/UbaserB)**
+	- ⚒️ Магботы, произведенные учёными, теперь имеют новые спрайты.
+- 🆑 **[metalgearsloth](https://github.com/metalgearsloth)**
+	- 🆕 Добавлены звуки при нажатии и наведении курсора на пользовательский интерфейс.
